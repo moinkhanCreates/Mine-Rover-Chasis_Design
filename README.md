@@ -197,7 +197,7 @@ Organized to preserve CAD traceability, support revision control as the design m
 
 **Full CAD Traceability** — All 19 structural and drivetrain parts modeled natively in SolidWorks.
 
-**Transparent Scope** — Chassis-only repository; sensing/software explicitly marked as future work.
+**Transparent Scope** — Chassis-only repository; sensing/software details are in different repository.
 
 ---
 
