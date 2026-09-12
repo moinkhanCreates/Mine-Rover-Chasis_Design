@@ -148,7 +148,7 @@ The platform is a **four-track (quad-tracked) rover**. The full part set confirm
 | Overall length / width / height | Not specified in current CAD release |
 | Track gauge / wheelbase | Not specified in current CAD release |
 | Mass | Not specified in current CAD release |
-| Material(s) | Not specified in current CAD release (bronze/nylon names noted above are part labels, not confirmed material callouts) |
+| Material(s) | Not specified in current CAD release |
 | Motor specification | Not specified in current CAD release |
 
 ---
