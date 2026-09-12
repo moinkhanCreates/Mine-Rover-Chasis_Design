@@ -17,7 +17,7 @@
 Mechanical chassis and structural CAD for a four-track ground rover, developed for Smart India Hackathon Problem Statement 26039 — *AI-Powered Underground Mine Safety, Monitoring and Rescue System* (Government of Jharkhand, Department of Higher & Technical Education).
 
 > [!IMPORTANT]
-> This repository currently focuses exclusively on the mechanical chassis and CAD architecture of the rover. Sensing, communication, power, and software subsystems are future integration targets, not part of this repository.
+> This repository currently focuses exclusively on the mechanical chassis and CAD architecture of the rover. Sensing, communication, power, and software subsystems are in the different repository.
 
 ---
 
