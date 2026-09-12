@@ -1,6 +1,6 @@
 <!-- TEAM LOGO PLACEHOLDER: replace with actual logo path -->
 
-# Underground Mine Safety & Rescue Rover — Mechanical Chassis
+# Underground Mine Safety & Rescue Rover : Mechanical Chassis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-CAD_Development-blue" alt="Status: CAD Development" />
@@ -41,7 +41,7 @@ Mechanical chassis and structural CAD for a four-track ground rover, developed f
 
 ## Project Context
 
-SIH PS 26039 calls for a rover to support exploration, situational awareness, and rescue operations inside hazardous underground mines — loose rubble, uneven floors, confined access, low visibility. Any sensing or autonomy layer depends on a mechanical platform that can physically move through that terrain. This repository documents that platform.
+SIH PS 26039 calls for a rover to support exploration to inaccessible areas, situational awareness, and rescue operations inside hazardous coal mines lose rubble, uneven floors, terrains, confined access, low visibility. Any sensing or autonomy layer depends on a mechanical platform that can physically move through that terrain. This repository documents that platform.
 
 ---
 
