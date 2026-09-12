@@ -81,8 +81,6 @@ The platform is a **four-track (quad-tracked) rover**. The full part set confirm
 
 **Underground Environment Considerations** — A four-track, independently-driven layout is generally suited to loose or uneven ground of the kind the SIH problem describes. The chassis is being designed with that context in mind.
 
-> [!WARNING]
-> The chassis has not been validated for underground deployment.
 
 ---
 
